@@ -1,1 +1,1 @@
-# igbozs-Prometheus-and-grafana-project
+# prometheus-monitoring
